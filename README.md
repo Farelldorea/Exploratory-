@@ -1,3 +1,9 @@
+Tugas Kelompok
+https://docs.google.com/document/d/1rc4A9wh-m_TwFmsjlzDSrOlA4LuLH2_dJGCpBjEAv4g/edit?tab=t.0
+
+
+
+
 Analisis 1
 Pada list biasa, [5000, 7000, 3000] * 0.9 akan error (TypeError) karena operator * pada
 list berfungsi untuk menduplikasi isi (hanya terima bilangan bulat), bukan menghitung matematika.
